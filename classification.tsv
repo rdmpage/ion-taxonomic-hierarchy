@@ -1,3 +1,4 @@
+id	parent_id	name	rank
 1		Animalia	Kingdom
 2	1	Acanthocephala	Phylum
 3	1	Annelida	Phylum
